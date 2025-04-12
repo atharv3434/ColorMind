@@ -1,7 +1,7 @@
 # ColorMind
 
 
-🎨 ColorMind – A Color Guessing Game in Java (Console-Based)
+🎨 ColorMind – A Color Guessing Game in Java 
 A color-guessing game where the system randomly picks a color from a list, and the user tries to guess it with hints provided. The fewer attempts, the higher the score!
 
 💡 Why this project?
