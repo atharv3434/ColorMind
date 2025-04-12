@@ -14,9 +14,7 @@ Can be upgraded to GUI or web later
 Perfect for showing logic + user interaction
 
 📁 Project Structure
-cpp
-Copy
-Edit
+
 ColorMind/
 ├── ColorMind.java        // Main class with game loop
 ├── GameLogic.java        // Logic for color generation and hinting
